@@ -1,0 +1,8 @@
+streamlit
+ollama
+faiss-cpu
+numpy
+langchain
+sentence-transformers
+pypdf
+langchain-community
