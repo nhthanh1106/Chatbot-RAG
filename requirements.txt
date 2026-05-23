@@ -6,3 +6,5 @@ langchain
 sentence-transformers
 pypdf
 langchain-community
+tiktoken
+rank-bm25
